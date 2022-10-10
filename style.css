@@ -1,8 +1,44 @@
 p{
-    color: darkgoldenrod;
+    color: tomato;
+    font-size: 20px;
 }
 
 h1{
     text-align: center;
     padding: 5px;
+}
+
+h2 {
+    text-align: center;
+    padding: 5px;
+}
+
+header{
+    border: solid black 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    background-color: blanchedalmond;
+    color: tomato;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    padding: 5px 0px 5px 0px;
+}
+
+#first{
+    color: gold;
+    font-size: 27px;
+    font-weight: bold;
+}
+#second {
+    color: silver;
+    font-size: 27px;
+    font-weight: bold;
+}
+#third {
+    color: #CD7F32;
+    font-size: 20px;
+    font-weight: bold;
 }
